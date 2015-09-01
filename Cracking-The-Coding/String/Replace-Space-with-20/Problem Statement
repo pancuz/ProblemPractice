@@ -1,1 +1,3 @@
 Replace white space in a string with %20
+For input: Java is good
+Output: Java%20is%20good
