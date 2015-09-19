@@ -1,0 +1,18 @@
+This java program demonstartes implementation of Linked List in Java.
+It mainly creates a list of integer elements and perform operations like - inserting more elements, reversing the list (both iterative and recursive),
+ removing specified kth node and displaying kth last element in the linked list.
+ 
+ OUTPUT
+ =============================
+ Original list is: 
+ => 2 => 3 => 4 => 5 => 6 => 7 => 8 => 9
+Reversed list is: 
+ => 9 => 8 => 7 => 6 => 5 => 4 => 3 => 2
+After recursize reverse: 
+ => 2 => 3 => 4 => 5 => 6 => 7 => 8 => 9
+After removing 5th element: 
+ => 2 => 3 => 4 => 5 => 7 => 8 => 9
+Displaying 3rd element from last: 
+kth last: 7
+Final list is: 
+ => 2 => 3 => 4 => 5 => 7 => 8 => 9
